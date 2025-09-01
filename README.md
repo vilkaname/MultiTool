@@ -1,1 +1,1 @@
-Multitool completely written in batch language.   
+All-in-one tool written entirely in Batch language.
